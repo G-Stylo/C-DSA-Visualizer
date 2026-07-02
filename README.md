@@ -1,4 +1,4 @@
-# C++ DSA Visualizer
+# DSA Visualizer
 
 An interactive Data Structures and Algorithms visualizer built with Modern C++ (C++17), Raylib, React, TypeScript, Vite, and Tailwind CSS. This project explores fundamental concepts in sorting, pathfinding, graph algorithms, competitive programming, and state-machine simulation through real-time interactive visualizers.
 
